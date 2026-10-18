@@ -151,7 +151,7 @@ public class Singly_linkedlist<T>
     }
     public static void main(String[] args)
     {
-        Singular_linkedlist<Integer> list = new Singular_linkedlist<>();
+        Singly_linkedlist<Integer> list = new Singly_linkedlist<>();
         list.insertfirst(20);
         list.insertfirst(10);
         list.insertlast(40);
