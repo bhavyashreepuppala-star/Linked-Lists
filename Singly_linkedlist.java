@@ -1,6 +1,6 @@
-public class Singular_linkedlist<T>
+public class Singly_linkedlist<T>
 {
-    public Singular_linkedlist()
+    public Singly_linkedlist()
     {
         head=null;
         size=0;
