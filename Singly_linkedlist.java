@@ -68,7 +68,7 @@ public class Singly_linkedlist<T>
             }
             curr.next=n1;
         }
-            size++;
+        size++;
     }
     public void deletefirst()
     {
@@ -107,8 +107,8 @@ public class Singly_linkedlist<T>
                 {
                     prev.next= slow.next;
                 }
-        }
-            size--;
+            }
+        size--;
     }
     public void deletelast()
     {
